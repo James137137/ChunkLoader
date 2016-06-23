@@ -1,0 +1,9 @@
+name: ChunkLoader
+main: nz.co.lolnet.james137137.ChunkLoader.ChunkLoader
+version: 0.0.1
+authors: [James Anderson]
+commands:
+  ChunkLoader:
+    aliases: CL
+    description: Main command
+    usage: /<command> [option]

@@ -1,0 +1,6 @@
+MysqlEnabled: false
+DatabaseAddress: 127.0.0.1
+DatabasePort: 3306
+DatabaseName: ChunkLoader
+DatabaseUserName: username
+DatabasePassword: password
